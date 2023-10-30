@@ -14,7 +14,7 @@ public class App
     public static void main( String[] args )
     {
 
-        System.out.println( "What is the customer name ?" );
+        System.out.println( "What is the customer name ? ? ?" );
         Scanner scan = new Scanner(System.in);
 
         String nom = scan.nextLine();
